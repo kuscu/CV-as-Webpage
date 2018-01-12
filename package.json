@@ -1,0 +1,23 @@
+{
+  "name": "homepage",
+  "version": "0.0.1",
+  "description": "This is the project to administrate the files that build my personal homepage",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Lukas Roemer",
+  "license": "ISC",
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-clean": "^0.3.2",
+    "gulp-concat": "^2.6.0",
+    "gulp-sass": "^2.3.2",
+    "gulp-typescript": "^3.1.1",
+    "gulp-uglify": "^2.0.0",
+    "merge-stream": "^1.0.0",
+    "pump": "^1.0.1",
+    "typescript": "^2.0.6"
+  },
+  "dependencies": {}
+}
